@@ -1,0 +1,17 @@
+# Fillcasa
+
+Fillcasa is a Goa real estate website for villas, apartments, condos, luxury rentals and investment properties.
+
+## Main pages
+- https://fillcasa.vercel.app/properties
+- https://fillcasa.vercel.app/buy
+- https://fillcasa.vercel.app/rent
+- https://fillcasa.vercel.app/about
+- https://fillcasa.vercel.app/blog
+- https://fillcasa.vercel.app/contact
+
+## Focus
+Goa villas for sale, Goa apartments for sale, Goa condos, entire villas for rent, monthly rentals, beachfront homes, luxury rentals and property investment in Goa.
+
+## Contact
+Use the contact form on the website.
